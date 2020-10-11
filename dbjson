@@ -1,0 +1,1446 @@
+{
+  "providerName": "JamKing",
+  "language": "en-US",
+  "lastUpdated": "2020-03-16T03:41:32.125Z",
+  "movies": [
+    {
+      "id": "morbe34b64ea4ca281dc00001d0f23f1",
+      "title": "Night Of The Living Dead",
+      "shortDescription": "A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a bloodthirsty, flesh-eating breed of monsters who are ravaging the East Coast of the United States.",
+      "thumbnail": "https://ia800904.us.archive.org/28/items/HoMovie1/ho%20movie%201.png",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "tags": [
+        "movies",
+        "history",
+        "horror",
+        "scary",
+        "adventure"
+      ],
+      "releaseDate": "1968-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T00:14:54.431Z",
+        "captions": [],
+        "duration": 5962,
+        "adBreaks": [
+          "00:01:40",
+          "00:08:44",
+          "00:16:20",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:55:00",
+          "01:02:00",
+          "01:09:00",
+          "01:16:00",
+          "01:23:00",
+          "01:31:00",
+          "01:38:00"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800904.us.archive.org/18/items/H1NightOfTheLivingDead/h-1%20Night%20of%20the%20Living%20Dead.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mord0951d6d74229afe4adf972b278d2",
+      "title": "House On Haunted Hill",
+      "shortDescription": "A millionaire offers $10,000 to five people who agree to be locked in a large, spooky, rented house overnight with him and his wife.",
+      "thumbnail": "https://ia800903.us.archive.org/6/items/HoMovie2/ho%20movie%202.png",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "tags": [
+        "movie",
+        "horror",
+        "scary ",
+        "adventure"
+      ],
+      "releaseDate": "1959-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T01:08:54.431Z",
+        "captions": [],
+        "duration": 4494,
+        "adBreaks": [
+          "00:01:40",
+          "00:08:44",
+          "00:16:40",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:56:00",
+          "01:04:00",
+          "01:12:00"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800900.us.archive.org/35/items/H2HouseOnHauntedHill1959ClassicVincentPriceHorrorFullMovie/h-2%20House%20on%20Haunted%20Hill%20%281959%29%20Classic%20Vincent%20Price%20Horror%20Full%20Movie.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mor5a8c101ee4c9da312c426e6067043",
+      "title": "Nosferatu",
+      "shortDescription": "Vampire Count Orlok expresses interest in a new residence and real estate agent Hutter's wife.",
+      "thumbnail": "https://ia600905.us.archive.org/13/items/HoMovie3/ho%20movie%203.png",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "tags": [
+        "horror",
+        "scary",
+        "movies",
+        "adventure",
+        "history"
+      ],
+      "releaseDate": "1922-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T01:28:54.431Z",
+        "captions": [],
+        "duration": 4845,
+        "adBreaks": [
+          "00:01:40",
+          "00:08:44",
+          "00:16:40",
+          "00:24:40",
+          "00:32:40",
+          "00:40:40",
+          "00:48:40",
+          "00:56:40",
+          "01:04:40",
+          "01:12:40",
+          "01:19:40"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800901.us.archive.org/12/items/H3Nosferatu1922SilentMovie/h-3%20Nosferatu%20%281922%29%20%5BSilent%20Movie%5D.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mor6748268874a57a4ba3debda1619d4",
+      "title": "Carnival Of Souls",
+      "shortDescription": "After a traumatic accident, a woman becomes drawn to a mysterious abandoned carnival.",
+      "thumbnail": "https://ia800909.us.archive.org/17/items/HoMovie4/ho%20movie%204.png",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "tags": [
+        "horror",
+        "movies",
+        "adventure",
+        "action",
+        "scary"
+      ],
+      "releaseDate": "1969-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T01:38:54.431Z",
+        "captions": [],
+        "duration": 4984,
+        "adBreaks": [
+          "00:01:30",
+          "00:08:36",
+          "00:16:20",
+          "00:24:20",
+          "00:32:20",
+          "00:40:20",
+          "00:48:20",
+          "00:56:20",
+          "01:04:20",
+          "01:12:20",
+          "01:20:20",
+          "01:23:00"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800909.us.archive.org/2/items/H4CarnivalOfSouls/h-4%20Carnival%20of%20Souls.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mod290e03d894135b07c5e514cbad7b5",
+      "title": "Plan 9 From Outer Space",
+      "shortDescription": "Evil aliens attack Earth and set their terrible \"Plan 9\" in action. As the aliens resurrect the dead of the Earth to destroy the living, our lives are in danger.",
+      "thumbnail": "https://ia800903.us.archive.org/2/items/HoMovie5/ho%20movie%205.png",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "tags": [
+        "horror",
+        "scary",
+        "stories",
+        "dark",
+        "movies",
+        "dance",
+        "adventure"
+      ],
+      "releaseDate": "1959-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T01:52:54.431Z",
+        "captions": [],
+        "duration": 4700,
+        "adBreaks": [
+          "00:01:40",
+          "00:08:44",
+          "00:16:40",
+          "00:24:40",
+          "00:32:40",
+          "00:40:40",
+          "00:48:40",
+          "00:56:40",
+          "01:03:50",
+          "01:11:00",
+          "01:18:00"
+        ],
+        "videos": [
+          {
+            "url": "https://ia600907.us.archive.org/6/items/H5Plan9FromOuterSpace1959ScienceFictionHorror/h-5%20Plan%209%20from%20Outer%20Space%20%281959%29%20%5BScience%20Fiction%5D%20%5BHorror%5D.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mo137542fa884b97a2a72cb356ae21b6",
+      "title": "Lady Frankenstein",
+      "shortDescription": "When Dr. Frankenstein is killed by a monster he created, his daughter and his lab assistant Marshall continue his experiments",
+      "thumbnail": "https://ia800902.us.archive.org/4/items/HoMovie6/ho%20movie%206.png",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "tags": [
+        "horror",
+        "storis",
+        "adventure",
+        "horror",
+        "comics",
+        "scary"
+      ],
+      "releaseDate": "1971-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T02:14:40.431Z",
+        "captions": [],
+        "duration": 5020,
+        "adBreaks": [
+          "00:01:40",
+          "00:08:40",
+          "00:16:00",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:56:00",
+          "01:04:00",
+          "01:13:00",
+          "01:21:40"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800903.us.archive.org/17/items/H6LadyFrankensteinUmbertoBorsatoFreeDownloadBorrowAndStreamingInternetArchive/h-6%20Lady%20Frankenstein%20-%20Umberto%20Borsato%20-%20Free%20Download%2C%20Borrow%2C%20and%20Streaming%20-%20Internet%20Archive.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moc4711dc886464fa16001c1962904f7",
+      "title": "My Favorite Brunette",
+      "shortDescription": "Shortly before his execution on the death row in San Quentin, amateur sleuth and baby photographer Ronnie Jackson, tells reporters how he got there.",
+      "thumbnail": "https://ia800904.us.archive.org/12/items/HoMovie7/ho%20movie%207.png",
+      "genres": [
+        "horror",
+        "comedy"
+      ],
+      "tags": [
+        "horror",
+        "the conjuring",
+        "adventure",
+        "game"
+      ],
+      "releaseDate": "1947-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T02:20:30.431Z",
+        "captions": [],
+        "duration": 5251,
+        "adBreaks": [
+          "00:01:40",
+          "00:08:50",
+          "00:16:10",
+          "00:24:10",
+          "00:32:10",
+          "00:40:10",
+          "00:48:10",
+          "00:56:00",
+          "01:04:00",
+          "01:12:00",
+          "01:20:00",
+          "01:27:14"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800909.us.archive.org/13/items/H7MyFavoriteBrunette1947BOBHOPE/h-7%20My%20Favorite%20Brunette%20%281947%29%20BOB%20HOPE.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mo4e8ea1ad2f4a8d9d244f5dd4cc47b8",
+      "title": "Bloody Pit Of Horror",
+      "shortDescription": "A photographer and his models go to an old, abandoned castle to shoot some sexy covers for horror novels. ",
+      "thumbnail": "https://ia800908.us.archive.org/7/items/HoMovie8/ho%20movie%208.png",
+      "genres": [
+        "horror",
+        "history"
+      ],
+      "tags": [
+        "scary video",
+        "police",
+        "scary game",
+        "dark",
+        "comedy",
+        "adventure",
+        "action",
+        "history"
+      ],
+      "releaseDate": "1965-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T02:22:30.431Z",
+        "captions": [],
+        "duration": 4943,
+        "adBreaks": [
+          "00:01:40",
+          "00:08:40",
+          "00:16:52",
+          "00:24:22",
+          "00:32:22",
+          "00:40:22",
+          "00:48:22",
+          "00:56:22",
+          "01:04:22",
+          "01:12:22",
+          "01:20:22",
+          "01:22:00"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800900.us.archive.org/33/items/H8BloodyPitOfHorrorFrancescoMerliRalphZuckerFreeDownloadBorrowAndStreamingInternetArchive/h-8%20Bloody%20Pit%20of%20Horror%20-%20Francesco%20Merli%2C%20Ralph%20Zucker%20-%20Free%20Download%2C%20Borrow%2C%20and%20Streaming%20-%20Internet%20Archive.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mod29aebf55e499c968ce024698596a9",
+      "title": "Voyage To The Planet Of Prehistoric Women",
+      "shortDescription": "Astronauts landing on Venus encounter dangerous creatures and almost meet some sexy Venusian women who like to sun-bathe in hip-hugging skin-tight pants and seashell brassieres.",
+      "thumbnail": "https://ia800905.us.archive.org/20/items/HoMovie9/ho%20movie%209.png",
+      "genres": [
+        "horror",
+        "history"
+      ],
+      "tags": [
+        "comedy",
+        "dark",
+        "scary",
+        "stories"
+      ],
+      "releaseDate": "1968-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T02:27:44.431Z",
+        "captions": [],
+        "duration": 4782,
+        "adBreaks": [
+          "00:01:30",
+          "00:08:33",
+          "00:16:30",
+          "00:24:30",
+          "00:32:30",
+          "00:40:30",
+          "00:48:30",
+          "00:56:30",
+          "01:04:30",
+          "01:12:30",
+          "01:19:30"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800900.us.archive.org/15/items/H9VoyageToThePlanetOfPrehistoricWomen1968/h-9%20Voyage%20to%20the%20Planet%20of%20Prehistoric%20Women%20%281968%29.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n10",
+      "title": "White Zombie",
+      "shortDescription": "A young man turns to a witch doctor to lure the woman he loves away from her fiancé, but instead turns her into a zombie slave",
+      "thumbnail": "https://ia600901.us.archive.org/32/items/HoMovie10/ho%20movie%2010.png",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "tags": [
+        "comedy",
+        "horror",
+        "funny",
+        "action"
+      ],
+      "releaseDate": "1932-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T02:35:30.431Z",
+        "captions": [],
+        "duration": 4023,
+        "adBreaks": [
+          "00:01:20",
+          "00:08:40",
+          "00:16:00",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:56:00",
+          "01:04:00",
+          "01:07:00"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800909.us.archive.org/4/items/H10WhiteZombie/h-10%20White%20Zombie.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n11",
+      "title": "The Flying Deuces",
+      "shortDescription": "Ollie has fallen in love with the innkeeper's daughter in Paris. The only problem - she's very much in love with her husband. To forget her he joins the Foreign Legion with Stan. Bad idea.",
+      "thumbnail": "https://ia800900.us.archive.org/8/items/Movie1c/movie%201c.png",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "tags": [
+        "scary",
+        "Laurel & hardy",
+        "video",
+        "funny",
+        "comedy",
+        "video game",
+        "adventure"
+      ],
+      "releaseDate": "1939-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T15:57:30.431Z",
+        "captions": [],
+        "duration": 3905,
+        "adBreaks": [
+          "00:01:20",
+          "00:08:30",
+          "00:16:40",
+          "00:24:40",
+          "00:32:40",
+          "00:40:40",
+          "00:48:40",
+          "00:56:40",
+          "01:04:40"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800902.us.archive.org/15/items/C1TheFlyingDeuces/c-1%20The%20Flying%20Deuces.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n12",
+      "title": "Charlie Chaplin Festival",
+      "shortDescription": "Four Chaplin shorts from 1917: The Adventurer, The Cure, Easy Street and The Immigrant, presented with music and sound effects.",
+      "thumbnail": "https://ia800901.us.archive.org/7/items/Movie2c/movie%202c.png",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "tags": [
+        "comedy",
+        "dark",
+        "scary",
+        "horror",
+        "game",
+        "adventure"
+      ],
+      "releaseDate": "1941-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:12:30.431Z",
+        "captions": [],
+        "duration": 4646,
+        "adBreaks": [
+          "00:00:05",
+          "00:07:05",
+          "00:16:00",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:56:00",
+          "01:04:00",
+          "01:12:00",
+          "01:17:00"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800904.us.archive.org/10/items/C2CharlieChaplinFestival/c-2%20Charlie%20Chaplin%20Festival.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n13",
+      "title": "Utopia",
+      "shortDescription": "Stan inherits a yacht and a South Pacific island. Ollie and Stan sail there with 2 other men. They shipwreck on a new atoll and settle there. An ex-fiancee joins them. They declare an independent nation and problems arise.",
+      "thumbnail": "https://ia800909.us.archive.org/0/items/Movie3c/movie%203c.png",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "tags": [
+        "comedy",
+        "laurel & hardy",
+        "history",
+        "police",
+        "stories",
+        "adventure",
+        "action"
+      ],
+      "releaseDate": "1951-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:18:30.431Z",
+        "captions": [],
+        "duration": 8519,
+        "adBreaks": [
+          "00:00:40",
+          "00:08:00",
+          "00:16:00",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:56:00",
+          "01:04:00",
+          "01:12:00",
+          "01:20:00",
+          "01:30:00",
+          "01:39:00",
+          "01:48:00",
+          "01:56:00",
+          "02:04:00",
+          "02:13:00",
+          "02:21:00"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800903.us.archive.org/34/items/C3Utopia/c-3%20Utopia.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n14",
+      "title": "Sex Madness",
+      "shortDescription": "Philanthropist Paul Lorenz is one of the more public faces in the fight against behavior that spreads the many \"social diseases\", such as syphilis and gonorrhea.",
+      "thumbnail": "https://ia800901.us.archive.org/17/items/Movie4c/movie%204c.png",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "tags": [
+        "horror",
+        "scary",
+        "action",
+        "adventure",
+        "game",
+        "police",
+        "action",
+        "comedy"
+      ],
+      "releaseDate": "1938-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:25:30.431Z",
+        "captions": [],
+        "duration": 3117,
+        "adBreaks": [
+          "00:00:40",
+          "00:08:00",
+          "00:16:01",
+          "00:23:02",
+          "00:30:05",
+          "00:37:10",
+          "00:44:20",
+          "00:51:20"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800909.us.archive.org/8/items/C4SexMadness/c-4-Sex%20Madness.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n15",
+      "title": "Road To Bali",
+      "shortDescription": "Two unemployed show-biz pals accept treasure-diving work in Bali for a local princess and they find treasure, love and trouble.",
+      "thumbnail": "https://ia800907.us.archive.org/17/items/Movie5c/movie%205c.png",
+      "genres": [
+        "comedy"
+      ],
+      "tags": [
+        "history",
+        "horror",
+        "comedy",
+        "action",
+        "hallowin",
+        "adventure"
+      ],
+      "releaseDate": "1958-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 5451,
+        "adBreaks": [
+          "00:01:00",
+          "00:08:30",
+          "00:16:00",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:55:00",
+          "01:02:00",
+          "01:09:00",
+          "01:16:00",
+          "01:23:00",
+          "01:30:40"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800907.us.archive.org/19/items/C5RoadToBali/c-5%20Road%20To%20Bali.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n16",
+      "title": "His Girl Friday",
+      "shortDescription": "A newspaper editor uses every trick in the book to keep his ace reporter ex-wife from remarrying.",
+      "thumbnail": "https://ia800900.us.archive.org/1/items/Movie6c/movie%206c.png",
+      "genres": [
+        "comedy",
+        "history"
+      ],
+      "tags": [
+        "horror",
+        "history",
+        "adventure",
+        "comedy",
+        "action"
+      ],
+      "releaseDate": "1940-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 4728,
+        "adBreaks": [
+          "00:01:40",
+          "00:08:50",
+          "00:16:00",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:56:00",
+          "01:04:00",
+          "01:11:11",
+          "01:18:20"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800904.us.archive.org/8/items/C6HisGirlFriday/c-6%20His%20Girl%20Friday.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n17",
+      "title": "Jack And The Beanstalk",
+      "shortDescription": "Abbott & Costello's version of the famous fairy tale, about a young boy who trades the family cow for magic beans.",
+      "thumbnail": "https://ia600904.us.archive.org/26/items/Movie7c/movie%207c.png",
+      "genres": [
+        "comedy",
+        "horror"
+      ],
+      "tags": [
+        "comedy",
+        "history",
+        "action",
+        "game",
+        "adventure",
+        "kids"
+      ],
+      "releaseDate": "1952-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 4898,
+        "adBreaks": [
+          "00:01:40",
+          "00:08:50",
+          "00:16:30",
+          "00:24:30",
+          "00:32:30",
+          "00:40:30",
+          "00:48:30",
+          "00:56:30",
+          "01:04:30",
+          "01:12:30",
+          "01:20:30"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800909.us.archive.org/35/items/C7JackAndTheBeanstalk1952/c-7%20Jack%20and%20the%20Beanstalk%20%281952%29.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n18",
+      "title": "My Man Godfrey",
+      "shortDescription": "A scatterbrained socialite hires a vagrant as a family butler...but there's more to Godfrey than meets the eye.",
+      "thumbnail": "https://ia600909.us.archive.org/18/items/Movie8c/movie%208c.png",
+      "genres": [
+        "horror",
+        "comedy"
+      ],
+      "tags": [
+        "history",
+        "horror",
+        "funny pubg",
+        "comedy",
+        "adventure",
+        "action"
+      ],
+      "releaseDate": "1936-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 5586,
+        "adBreaks": [
+          "00:01:30",
+          "00:08:40",
+          "00:16:20",
+          "00:24:20",
+          "00:32:20",
+          "00:40:20",
+          "00:48:20",
+          "00:56:20",
+          "01:04:20",
+          "01:11:20",
+          "01:18:20",
+          "01:25:20",
+          "01:33:00"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800903.us.archive.org/28/items/C8MyManGodfrey/c-8%20My%20Man%20Godfrey.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n19",
+      "title": "Reefer Madness",
+      "shortDescription": "Cautionary tale features a fictionalized take on the use of marijuana. A trio of drug dealers lead innocent teenagers to become addicted to \"reefer\" cigarettes by holding wild parties with jazz music.",
+      "thumbnail": "https://ia800907.us.archive.org/35/items/Movie9c/movie%209c.png",
+      "genres": [
+        "comedy"
+      ],
+      "tags": [
+        "stories",
+        "fortnite",
+        "the conjuring 2",
+        "game",
+        "movies",
+        "adventure"
+      ],
+      "releaseDate": "1936-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 4098,
+        "adBreaks": [
+          "00:01:10",
+          "00:08:30",
+          "00:16:00",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:56:00",
+          "01:04:00",
+          "01:08:00"
+        ],
+        "videos": [
+          {
+            "url": "https://ia600908.us.archive.org/7/items/C9ReeferMadness1936/c-9%20Reefer%20Madness%20%281936%29.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n20",
+      "title": "Charlie Chaplin's The Vagabond",
+      "shortDescription": "Charlie, the emotional violinist, flees to a gipsy camp, only to find himself playing for an abducted girl. Soon, a unique birthmark will pave the way for an unexpected rescue and a marvellous new life. ",
+      "thumbnail": "https://ia800907.us.archive.org/6/items/Movie10c/movie%2010c.png",
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "tags": [
+        "horror",
+        "scary",
+        "game",
+        "adventure",
+        "movies"
+      ],
+      "releaseDate": "1916-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 1483,
+        "adBreaks": [
+          "00:00:44",
+          "00:07:44",
+          "00:14:44",
+          "00:21:44",
+          "00:24:40"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800905.us.archive.org/23/items/C10CharlieChaplinsTheVagabondFreeDownloadBorrowAndStreamingInternetArchive/c-10%20Charlie%20Chaplin%27s%20-The%20Vagabond-%20-%20Free%20Download%2C%20Borrow%2C%20and%20Streaming%20-%20Internet%20Archive.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n21",
+      "title": "The MAGIC SWORD",
+      "shortDescription": "The son of a sorceress, armed with weapons, armour and six magically summoned knights, embarks on a quest to save a princess from a vengeful wizard.",
+      "thumbnail": "https://ia800907.us.archive.org/5/items/AdMovie1/ad%20movie%201.png",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "tags": [
+        "horror",
+        "police",
+        "scary",
+        "game",
+        "movies",
+        "adventure"
+      ],
+      "releaseDate": "1962-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 4812,
+        "adBreaks": [
+          "00:01:20",
+          "00:09:00",
+          "00:18:30",
+          "00:27:30",
+          "00:36:30",
+          "00:44:20",
+          "00:51:20",
+          "00:58:20",
+          "01:05:20",
+          "01:12:20",
+          "01:20:00"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800908.us.archive.org/18/items/Ad1TheMAGICSWORD1962FullFantasyMovie/ad-1%20The%20MAGIC%20SWORD%20%281962%29%20-%20Full%20Fantasy%20Movie.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n22",
+      "title": "The Most Dangerous Game",
+      "shortDescription": "An insane hunter arranges for a ship to be wrecked on an island where he can indulge in some sort of hunting and killing of the passengers.",
+      "thumbnail": "https://ia600907.us.archive.org/26/items/AdMovie2/ad%20movie%202.png",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "tags": [
+        "stories",
+        "funny",
+        "gaming",
+        "action",
+        "movies"
+      ],
+      "releaseDate": "1932-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 3753,
+        "adBreaks": [
+          "00:01:40",
+          "00:08:50",
+          "00:16:00",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:55:00",
+          "01:02:10"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800901.us.archive.org/34/items/Ad2TheMostDangerousGame1932CompleteFilm/ad-2%20The%20Most%20Dangerous%20Game%20%281932%29%20Complete%20Film.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n23",
+      "title": "The Son Of Monte Cristo",
+      "shortDescription": "In 1865, General Gurko Lanen is dictator of \"Lichtenburg\" in the Balkans. Rightful ruler Zona hopes to get aid from Napoleon III of France.",
+      "thumbnail": "https://ia800900.us.archive.org/26/items/AdMovie3/ad%20movie%203.png",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "tags": [
+        "horror",
+        "stories",
+        "adventure",
+        "action",
+        "movies"
+      ],
+      "releaseDate": "1940-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 6087,
+        "adBreaks": [
+          "00:00:40",
+          "00:08:20",
+          "00:16:40",
+          "00:24:40",
+          "00:32:40",
+          "00:40:40",
+          "00:48:40",
+          "00:56:40",
+          "01:04:40",
+          "01:12:40",
+          "01:20:10",
+          "01:27:10",
+          "01:34:10",
+          "01:41:10"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800907.us.archive.org/7/items/Ad3TheSonOfMonteCristo1940ActionAdventure/ad-3%20The%20Son%20of%20Monte%20Cristo%20%281940%29%20%5BAction%5D%20%5BAdventure%5D.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n24",
+      "title": "Return Of The Kung Fu Dragon",
+      "shortDescription": "Golden City, capital of wondrous Phoenix island, is attacked by an evil despot and his sorcerer ally and conquered, with the Emperor and his three generals killed by the invaders.",
+      "thumbnail": "https://ia800908.us.archive.org/31/items/AdMovie4/ad%20movie%204.png",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "tags": [
+        "history",
+        "action",
+        "horror",
+        "adventure",
+        "movies"
+      ],
+      "releaseDate": "1976-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 4966,
+        "adBreaks": [
+          "00:00:40",
+          "00:07:40",
+          "00:16:30",
+          "00:24:30",
+          "00:32:30",
+          "00:40:30",
+          "00:48:30",
+          "00:56:30",
+          "01:04:30",
+          "01:12:30",
+          "01:20:30"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800908.us.archive.org/27/items/Ad4ReturnOfTheKungFuDragonFreeDownloadBorrowAndStreamingInternetArchive/ad-4%20Return%20of%20the%20Kung%20Fu%20Dragon%20-%20Free%20Download%2C%20Borrow%2C%20and%20Streaming%20-%20Internet%20Archive.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n25",
+      "title": "The Fast And The Furious",
+      "shortDescription": "A trucker framed for murder breaks out of jail, takes a young woman hostage, and enters her sports car in cross-border road race hoping to get to Mexico before the police catch him.",
+      "thumbnail": "https://ia800906.us.archive.org/18/items/AdMovie5/ad%20movie%205.png",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "tags": [
+        "history",
+        "scary",
+        "movies",
+        "action",
+        "adventure"
+      ],
+      "releaseDate": "1955-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 4356,
+        "adBreaks": [
+          "00:01:20",
+          "00:08:20",
+          "00:16:20",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:56:00",
+          "01:04:00",
+          "01:12:00"
+        ],
+        "videos": [
+          {
+            "url": "https://ia600902.us.archive.org/2/items/Ad5TheFastAndTheFurious/ad-5%20The%20Fast%20And%20The%20Furious.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n26",
+      "title": "Africa Screams",
+      "shortDescription": "Abbott & Costello search for diamonds in Africa, along the way meeting a visually-impaired gunner, a hungry lion, and a tribe of cannibals...",
+      "thumbnail": "https://ia600904.us.archive.org/31/items/AdMovie6/ad%20movie%206.png",
+      "genres": [
+        "adventure",
+        "history",
+        "action"
+      ],
+      "tags": [
+        "horror",
+        "Abbott & Costello's",
+        "scary",
+        "video ",
+        "adventure",
+        "action",
+        "movies"
+      ],
+      "releaseDate": "1949-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 4561,
+        "adBreaks": [
+          "00:01:00",
+          "00:08:00",
+          "00:16:00",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:47:04",
+          "00:54:10",
+          "01:01:20",
+          "01:08:30",
+          "01:15:40"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800906.us.archive.org/0/items/Ad6AbbottCostellosAfricaScreams1949/ad-6%20Abbott%20%26%20Costello%27s%20%27%27Africa%20Screams%20%27%27%20%281949%29.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n27",
+      "title": "Detour",
+      "shortDescription": "Chance events trap hitch-hiker Al Roberts in a tightening net of film noir trouble.",
+      "thumbnail": "https://ia800900.us.archive.org/32/items/AdMovie7/ad%20movie%207.png",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "tags": [
+        "scaru video",
+        "horror",
+        "adventure",
+        "action",
+        "movie"
+      ],
+      "releaseDate": "1945-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 4058,
+        "adBreaks": [
+          "00:00:30",
+          "00:08:30",
+          "00:16:50",
+          "00:24:50",
+          "00:32:50",
+          "00:40:50",
+          "00:48:50",
+          "00:56:50",
+          "01:04:50",
+          "01:07:30"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800906.us.archive.org/5/items/Ad7Detour1945FilmNoirDrama/ad-7%20Detour%20%281945%29%20%5BFilm%20Noir%5D%20%5BDrama%5D.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n28",
+      "title": "Santa Fe Trail",
+      "shortDescription": "In 1854, Jeb Stuart, George Custer and other graduates from West Point are posted to Kansas to help pacify the territory before railroad construction to Santa Fe can resume.",
+      "thumbnail": "https://ia600904.us.archive.org/32/items/AdMovie8/ad%20movie%208.png",
+      "genres": [
+        "adventure",
+        "action"
+      ],
+      "tags": [
+        "horror",
+        "scary",
+        "advebture",
+        "funny",
+        "movies"
+      ],
+      "releaseDate": "1940-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 6570,
+        "adBreaks": [
+          "00:01:00",
+          "00:08:00",
+          "00:16:40",
+          "00:24:40",
+          "00:32:40",
+          "00:40:40",
+          "00:48:40",
+          "00:56:40",
+          "01:04:40",
+          "01:12:40",
+          "01:20:40",
+          "01:28:20",
+          "01:35:20",
+          "01:42:20",
+          "01:49:20"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800900.us.archive.org/23/items/Ad8SantaFeTrail/ad-8%20Santa%20Fe%20Trail.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n29",
+      "title": "Angel And The Badman",
+      "shortDescription": "Quirt Evans, an all round bad guy, is nursed back to health and sought after by Penelope Worth, a Quaker girl. He eventually finds himself having to choose between his world and the world Penelope lives in.",
+      "thumbnail": "https://ia600908.us.archive.org/2/items/AdMovie9/ad%20movie%209.png",
+      "genres": [
+        "horror",
+        "action",
+        "adventure"
+      ],
+      "tags": [
+        "scary",
+        "stories",
+        "horror",
+        "adventure",
+        "action",
+        "movies"
+      ],
+      "releaseDate": "1947-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 5974,
+        "adBreaks": [
+          "00:00:40",
+          "00:07:40",
+          "00:16:20",
+          "00:24:20",
+          "00:32:20",
+          "00:40:20",
+          "00:48:20",
+          "00:56:20",
+          "01:04:20",
+          "01:12:20",
+          "01:20:20",
+          "01:28:20",
+          "01:36:40"
+        ],
+        "videos": [
+          {
+            "url": "https://ia600909.us.archive.org/16/items/Ad9AngelAndTheBadmanJohnWayneGailRussellBlackAndWhiteEnglishFullMoviesWesternFilm/ad-9%20Angel%20and%20the%20Badman%20-%20John%20Wayne%2C%20Gail%20Russell%20-%20Black%20and%20White%20English%20Full%20Movies%20-%23Western%20Film.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moce40b268fa4766aa1612131aa74n30",
+      "title": "The Phantom Of The Opera",
+      "shortDescription": "A mad, disfigured composer seeks love with a lovely young opera singer.",
+      "thumbnail": "https://ia800903.us.archive.org/3/items/AdMovie10/ad%20movie%2010.png",
+      "genres": [
+        "horror",
+        "adventure",
+        "action"
+      ],
+      "tags": [
+        "horror",
+        "stories",
+        "adventure",
+        "scary",
+        "movies"
+      ],
+      "releaseDate": "1925-02-06",
+      "content": {
+        "dateAdded": "2019-03-19T18:31:30.431Z",
+        "captions": [],
+        "duration": 6388,
+        "adBreaks": [
+          "00:00:20",
+          "00:07:20",
+          "00:16:05",
+          "00:24:05",
+          "00:32:05",
+          "00:40:05",
+          "00:48:05",
+          "00:56:05",
+          "01:04:05",
+          "01:11:05",
+          "01:18:05",
+          "01:25:05",
+          "01:32:05",
+          "01:39:05",
+          "01:46:05"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800902.us.archive.org/2/items/Ad10ThePhantomOfTheOpera1925SilentMovie/ad-10%20The%20Phantom%20of%20the%20Opera%20%281925%29%20%5BSilent%20Movie%5D.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "coro40b268fa4766aa1612131aa74n31",
+      "title": "Coronavirus World Map",
+      "shortDescription": "Novel coronavirus Live Streaming: Breaking news, world Map and live counter on confirmed cases, recovered cases(COVID-19).",
+      "thumbnail": "https://ia601407.us.archive.org/33/items/corona_20200317/CORONA.png",
+      "genres": [
+        "horror",
+        "history",
+        "action"
+      ],
+      "tags": [
+        "Corona news",
+        "coronavirus",
+        "corona live",
+        "corona news today",
+        "coronavirus now"
+      ],
+      "releaseDate": "2020-03-16",
+      "content": {
+        "dateAdded": "2020-03-16T18:31:30.431Z",
+        "captions": [],
+        "duration": 4168,
+        "adBreaks": [
+          "00:00:20",
+          "00:07:20",
+          "00:16:05",
+          "00:24:05",
+          "00:32:05",
+          "00:40:05",
+          "00:48:05",
+          "00:56:05",
+          "01:04:05",
+          "01:09:05"
+        ],
+        "videos": [
+          {
+            "url": "https://ia801408.us.archive.org/6/items/vlcrecord2020031619h13m16slivecoronaviruspandemicrealtimecounterworldmapnews/vlc-record-2020-03-16-19h13m16s-%5BLIVE%5D%20Coronavirus%20Pandemic_%20Real%20Time%20Counter%2C%20World%20Map%2C%20News-.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    }
+  ],
+  "playlists": [
+    {
+      "name": "Corona live",
+      "itemIds": [
+        "coro40b268fa4766aa1612131aa74n31"
+      ]
+    },
+    {
+      "name": "Horror Movies",
+      "itemIds": [
+        "morbe34b64ea4ca281dc00001d0f23f1",
+        "mord0951d6d74229afe4adf972b278d2",
+        "mor5a8c101ee4c9da312c426e6067043",
+        "mor6748268874a57a4ba3debda1619d4",
+        "mod290e03d894135b07c5e514cbad7b5",
+        "mo137542fa884b97a2a72cb356ae21b6",
+        "moc4711dc886464fa16001c1962904f7",
+        "mo4e8ea1ad2f4a8d9d244f5dd4cc47b8",
+        "mod29aebf55e499c968ce024698596a9",
+        "moce40b268fa4766aa1612131aa74n10"
+      ]
+    },
+    {
+      "name": "Comedy Movies",
+      "itemIds": [
+        "moce40b268fa4766aa1612131aa74n11",
+        "moce40b268fa4766aa1612131aa74n12",
+        "moce40b268fa4766aa1612131aa74n13",
+        "moce40b268fa4766aa1612131aa74n14",
+        "moce40b268fa4766aa1612131aa74n15",
+        "moce40b268fa4766aa1612131aa74n16",
+        "moce40b268fa4766aa1612131aa74n17",
+        "moce40b268fa4766aa1612131aa74n18",
+        "moce40b268fa4766aa1612131aa74n19",
+        "moce40b268fa4766aa1612131aa74n20"
+      ]
+    },
+    {
+      "name": "Adventure Movies",
+      "itemIds": [
+        "moce40b268fa4766aa1612131aa74n21",
+        "moce40b268fa4766aa1612131aa74n22",
+        "moce40b268fa4766aa1612131aa74n23",
+        "moce40b268fa4766aa1612131aa74n24",
+        "moce40b268fa4766aa1612131aa74n25",
+        "moce40b268fa4766aa1612131aa74n26",
+        "moce40b268fa4766aa1612131aa74n27",
+        "moce40b268fa4766aa1612131aa74n28",
+        "moce40b268fa4766aa1612131aa74n29",
+        "moce40b268fa4766aa1612131aa74n30"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Corona map",
+      "playlistName": "Corona live",
+      "order": "manual"
+    },
+    {
+      "name": "Horror",
+      "playlistName": "Horror Movies",
+      "order": "manual"
+    },
+    {
+      "name": "Comedy",
+      "playlistName": "Comedy Movies",
+      "order": "manual"
+    },
+    {
+      "name": "Adventure",
+      "playlistName": "Adventure Movies",
+      "order": "manual"
+    }
+  ]
+}
